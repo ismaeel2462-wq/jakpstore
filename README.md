@@ -1,1 +1,1 @@
-# jakpstore
+# jakostore
